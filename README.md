@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakesh Roy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Creoate](https://www.creoate.com/)
+- 🔭 I’m currently working on largest Wholesale Market in UK [Creoate](https://www.creoate.com/)
 
 - 🌱 I’m currently learning [NestJs](https://nestjs.com/)
 
